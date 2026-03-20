@@ -1,0 +1,9 @@
+{
+  "short_name": "Library",
+  "name": "Online Library Management System",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e3a5f",
+  "background_color": "#ffffff"
+}
